@@ -149,15 +149,6 @@ footer .container {
   align-items: center;
   padding-bottom: 16px;
 }
-@media screen and (min-width: 600px) and (max-width: 789px){
-  .container{
-    width:90%;
-    margin: 0px auto;
-  }
-  .container-flex{
-    display: block;
-  }
-  
-}
+
 
 
